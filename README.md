@@ -1,1 +1,1 @@
-List of some of the ML projects made me
+List of some of the ML projects made by me
